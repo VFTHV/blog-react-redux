@@ -1,6 +1,6 @@
+import "../style/App.css";
 import React from "react";
 import PostList from "./PostList";
-import { fetchPosts } from "../actions";
 
 const App = () => {
   return (
